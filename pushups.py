@@ -50,7 +50,7 @@ while True:
 			if prev_per > per: 
 				e+=1
 
-			if(e == 20):
+			if(e == 40):
 				print('bring your chest closer to the ground!')
 				e= 0
 				
@@ -67,7 +67,7 @@ while True:
 
 			if(prev_per > per):
 				e+=1
-			if(e==30):
+			if(e==40):
 				print('Higher! Straighten your hands')
 				e= 0
                 	
